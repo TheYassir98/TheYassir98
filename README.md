@@ -18,26 +18,37 @@ I am an aerospace engineer with deep knowledge in full-stack software and Machin
 - **Prisma** - An ORM that provides a simple, type safe API to query databases.
 
 
-## 🛡️ **Arsenal & Expertise**
+## 🛡️ **Knowledge in:**
 <div align="center">
 
-### **Programming Languages**
-<img src="https://skillicons.dev/icons?i=python,js,ts,r,java,scala,cpp,php,html,css,go,fortran&theme=dark" />
+### 🔥 **Programming Languages**
+<img src="https://skillicons.dev/icons?i=py,js,ts,r,html,css,php,java,scala,cpp,go,fortran&theme=dark" />
 
-### **Machine Learning & Data Science**
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,jupyter,anaconda&theme=dark" />
+### 🤖 **Machine Learning & Data Science**
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,anaconda,matlab,octave&theme=dark" />
+
+### 🛠️ **CAD/Engineering Software**
+<img src="https://skillicons.dev/icons?i=autocad,sketchup,blender&theme=dark" />
 
 ### 🌐 **Web Technologies**
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,django,fastapi,bootstrap,tailwind,mysql&theme=dark" />
 
 ### 🔧 **Tools & Platforms**
-<img src="https://skillicons.dev/icons?i=git,vscode,linux,docker,markdown,latex&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,vscode,linux,docker,md,latex,postman,figma&theme=dark" />
+
+### ☁️ **Cloud & DevOps**
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,netlify,vercel&theme=dark" />
 
 </div>
 
-### 🛠️ CAD/CAE Design Software
+### 📊 **Additional Technologies**
+[![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=white)](#)
+[![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)](#)
+[![NumPy](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white)](#)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)](#)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](#)
 
-[![AutoCAD](https://img.shields.io/badge/AutoCAD-EE3124?style=flat&logo=autodesk&logoColor=white)](#)
+### 🏗️ **CAD/CAE Professional Software**
 [![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=flat&logo=solidworks&logoColor=white)](#)
 [![Rhinoceros](https://img.shields.io/badge/Rhinoceros-801010?style=flat&logo=rhinoceros&logoColor=white)](#)
 [![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=flat&logo=ansys&logoColor=black)](#)
