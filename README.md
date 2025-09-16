@@ -1,23 +1,23 @@
-### Hola, soy Yassir 👋
+### Hello, I'm Yassir 👋
 
-### ✨ Sobre mí
+### ✨ About me
 
-Soy ingeniero aeroespacial con profundos conocimientos en software full-stack y Machine Learning aplicados a la industria aeroespacial. Me apasiona explorar herramientas y tecnologías que hacen que la ingeniería sea más divertida, emocionante y segura.
+I am an aerospace engineer with deep knowledge in full-stack software and Machine Learning applied to the aerospace industry. I love exploring tooling and technologies that make engineering more fun, exciting and safe.
 
-### 🔭 En lo que estoy trabajando actualmente
+### 🔭 I'm currently working on
 
-- 🛩️ [Sistema de Gestión Aeroespacial](https://github.com/TheYassir98) - Herramienta para gestión de componentes aeroespaciales. Integración de procesos de fabricación usando Python + FastAPI, incluyendo estas fantásticas librerías: `pandas`, `numpy`, `matplotlib` y `pydantic`, con enfoque en seguridad de tipos.
-- ⚙️ [CAD Automation Tool](https://github.com/TheYassir98) - Interfaz moderna para automatizar tareas de diseño CAD. Construido usando React + TypeScript, incluyendo estas fantásticas librerías: `@tanstack/query`, `@tanstack/router`, `zod` y `shadcn-ui`, con enfoque en seguridad de tipos.
+- 🛩️ [Aerospace Management System](https://github.com/TheYassir98) - Tool for aerospace components management. Manufacturing process integration using Python + FastAPI, including these fantastic libraries: `pandas`, `numpy`, `matplotlib` and `pydantic`, with a focus on type safety.
+- ⚙️ [CAD Automation Tool](https://github.com/TheYassir98) - A modern web interface to automate CAD design tasks. Built using React + TypeScript, including libraries like: `@tanstack/query`, `@tanstack/router`, `zod` and `shadcn-ui`, with a focus on type safety.
 
-### 🌱 Actualmente estoy aprendiendo
+### 🌱 I'm currently learning
 
-- **R** - Un lenguaje de programación estadístico y entorno para análisis de datos.
-- **Julia** - Un lenguaje de alto rendimiento para computación científica.
-- **Go** - Un lenguaje de programación rápido, compilado y de alto nivel para propósitos generales.
-- **tRPC** - Proporciona seguridad de tipos de extremo a extremo en APIs. Usado con `zod` para validación de esquemas.
-- **Prisma** - Un ORM que proporciona una API simple y segura para consultar bases de datos.
+- **R** - A statistical programming language and environment for data analysis.
+- **Julia** - A high-performance language for scientific computing.
+- **Go** - A fast statically typed, compiled high-level general purpose programming language.
+- **tRPC** - Provides end-to-end type safety in APIs. Used with `zod` for schema validation.
+- **Prisma** - An ORM that provides a simple, type safe API to query databases.
 
-### 🌍 Lenguajes
+### 🌍 Languages
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3075C1?logo=typescript&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F0D81D?logo=javascript&logoColor=000)](#)
@@ -31,7 +31,7 @@ Soy ingeniero aeroespacial con profundos conocimientos en software full-stack y 
 [![Scala](https://img.shields.io/badge/Scala-BB1A06?logo=scala&logoColor=fff)](#)
 [![C++](https://img.shields.io/badge/C++-004283?logo=cplusplus&logoColor=fff)](#)
 
-### 🛠️ Software de Diseño CAD/CAE
+### 🛠️ CAD/CAE Design Software
 
 [![AutoCAD](https://img.shields.io/badge/AutoCAD-EE3124?style=flat&logo=autodesk&logoColor=white)](#)
 [![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=flat&logo=solidworks&logoColor=white)](#)
@@ -51,7 +51,7 @@ Soy ingeniero aeroespacial con profundos conocimientos en software full-stack y 
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)](#)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](#)
 
-### 🧑‍💻 Tecnologías
+### 🧑‍💻 Technologies
 
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-0F0F11?logo=next.js&logoColor=white)](#)
@@ -64,6 +64,6 @@ Soy ingeniero aeroespacial con profundos conocimientos en software full-stack y 
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)](#)
 [![LaTeX](https://img.shields.io/badge/LaTeX-007C7C?style=flat&logo=latex&logoColor=white)](#)
 
-### 📫 Contáctame
+### 📫 Contact me
 
 <a href="https://www.linkedin.com/in/yassir-el-ouahabi-khirat/" target="_blank"><img alt="LinkedIn" height="23px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:yagove@gmail.com" target="_blank"><img alt="Email" height="23px" src="https://img.shields.io/badge/Email-10b981?style=for-the-badge&logo=&logoColor=white" /></a>
