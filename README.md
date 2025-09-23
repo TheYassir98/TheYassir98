@@ -2,7 +2,7 @@
 
 ### ✨ About me
 
-I am an aerospace engineer with deep knowledge in full-stack software and Machine Learning applied to the aerospace industry. I love exploring tooling and technologies that make engineering more fun, exciting and safe.
+I am Yassir El Ouahabi Khirat, an aerospace engineer with deep knowledge in full-stack software and Machine Learning applied to the aerospace industry. I love exploring tooling and technologies that make engineering more fun, exciting and safe.
 
 ### 🔭 I'm currently working on
 
